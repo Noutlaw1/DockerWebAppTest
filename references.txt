@@ -1,0 +1,3 @@
+https://www.wintellect.com/containerize-python-app-5-minutes/
+
+port connectivity: https://stackoverflow.com/questions/30323224/deploying-a-minimal-flask-app-in-docker-server-connection-issues
